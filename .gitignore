@@ -2,7 +2,7 @@
 
 # compiled output
 /dist-server
-/tmp
+/tmpg
 /out-tsc
 
 # dependencies
