@@ -1,0 +1,63 @@
+{
+  "configVersion": 1,
+  "index": "/skar-pwacat/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/skar-pwacat/favicon.ico",
+        "/skar-pwacat/index.html",
+        "/skar-pwacat/inline.318b50c57b4eba3d437b.bundle.js",
+        "/skar-pwacat/main.abd4a7b013c35b6ade3f.bundle.js",
+        "/skar-pwacat/polyfills.3b62166b1130a1e3b571.bundle.js",
+        "/skar-pwacat/styles.bfd2da062286f0abd2bb.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/skar-pwacat/assets/icon-128x128.png",
+        "/skar-pwacat/assets/icon-152x152.png",
+        "/skar-pwacat/assets/icon-256x256.png",
+        "/skar-pwacat/assets/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/skar-pwacat/assets/icon-128x128.png": "342675cf073b61c896d7a40d0cb1a1cc39803761",
+    "/skar-pwacat/assets/icon-152x152.png": "84217561e7430d0449020f612e974f425a18019f",
+    "/skar-pwacat/assets/icon-256x256.png": "3362bf508fb0cc06418b381edce91478c39915de",
+    "/skar-pwacat/assets/icon-512x512.png": "3648a618d01735d8553cc24192f4109011a0bc54",
+    "/skar-pwacat/favicon.ico": "93bef560d04ccd2d21ee1d6c46f05ece85fe418d",
+    "/skar-pwacat/index.html": "448adbc1408e18f564dbdf9b6cdaa3a6499df9c2",
+    "/skar-pwacat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/skar-pwacat/main.abd4a7b013c35b6ade3f.bundle.js": "c175e6c2d642dad02690bb526d9dda827ae868e9",
+    "/skar-pwacat/polyfills.3b62166b1130a1e3b571.bundle.js": "12c1dead6505867b7219c4eb6ef8ecc0e5ca51be",
+    "/skar-pwacat/styles.bfd2da062286f0abd2bb.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
