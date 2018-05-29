@@ -10,7 +10,7 @@
         "/skar-pwacat/favicon.ico",
         "/skar-pwacat/index.html",
         "/skar-pwacat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/skar-pwacat/main.3334485d8a0d5d186ac1.bundle.js",
+        "/skar-pwacat/main.420fe538572a3b05faa6.bundle.js",
         "/skar-pwacat/polyfills.fa62713060e7012f88ea.bundle.js",
         "/skar-pwacat/styles.bfd2da062286f0abd2bb.bundle.css"
       ],
@@ -35,13 +35,13 @@
   "hashTable": {
     "/skar-pwacat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/skar-pwacat/assets/icon-128x128.png": "342675cf073b61c896d7a40d0cb1a1cc39803761",
-    "/skar-pwacat/main.3334485d8a0d5d186ac1.bundle.js": "09c11c7d84d2c945a9bee7d79b6333988e4bbbd5",
+    "/skar-pwacat/main.420fe538572a3b05faa6.bundle.js": "bf26fe77021635f0aeaaadcfc1ceab20ad516145",
     "/skar-pwacat/assets/icon-152x152.png": "84217561e7430d0449020f612e974f425a18019f",
     "/skar-pwacat/polyfills.fa62713060e7012f88ea.bundle.js": "086b38be64925fb65d363f0163199c5b9ce0c54b",
     "/skar-pwacat/assets/icon-256x256.png": "3362bf508fb0cc06418b381edce91478c39915de",
     "/skar-pwacat/styles.bfd2da062286f0abd2bb.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "/skar-pwacat/assets/icon-512x512.png": "3648a618d01735d8553cc24192f4109011a0bc54",
     "/skar-pwacat/favicon.ico": "93bef560d04ccd2d21ee1d6c46f05ece85fe418d",
-    "/skar-pwacat/index.html": "1cfedd3215c1fd3c75f7c087bb78ef5afb122fec"
+    "/skar-pwacat/index.html": "cf69727a6f4c85fc89b2923fed7af00351d6b0ae"
   }
 }
