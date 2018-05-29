@@ -14,9 +14,7 @@
         "/skar-pwacat/polyfills.fa62713060e7012f88ea.bundle.js",
         "/skar-pwacat/styles.bfd2da062286f0abd2bb.bundle.css"
       ],
-      "patterns": [
-        "https:\\/\\/cataas\\.com\\/.*"
-      ]
+      "patterns": []
     },
     {
       "name": "assets",
@@ -28,7 +26,9 @@
         "/skar-pwacat/assets/icon-256x256.png",
         "/skar-pwacat/assets/icon-512x512.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
