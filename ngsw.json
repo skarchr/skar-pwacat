@@ -26,9 +26,7 @@
         "/skar-pwacat/assets/icon-256x256.png",
         "/skar-pwacat/assets/icon-512x512.png"
       ],
-      "patterns": [
-        "https:\\/\\/cataas\\.com\\/.*"
-      ]
+      "patterns": []
     }
   ],
   "dataGroups": [],
